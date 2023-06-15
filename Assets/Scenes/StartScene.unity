@@ -437,7 +437,7 @@ PrefabInstance:
       objectReference: {fileID: 1135817074}
     - target: {fileID: 3400433721719141357, guid: 1407eb467fd11da4087636bd11c462fe, type: 3}
       propertyPath: m_text
-      value: Scenary
+      value: Scenery
       objectReference: {fileID: 0}
     - target: {fileID: 3400433721719141357, guid: 1407eb467fd11da4087636bd11c462fe, type: 3}
       propertyPath: m_fontSize
